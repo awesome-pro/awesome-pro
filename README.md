@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandan-verma&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandan-verma" /> </p>
 
-<p alig![image](https://github.com/abhinandan-verma/abhinandan-verma/assets/147910430/a6c1ca35-3602-4460-8776-e4d51c0531d8)
-n="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandan-verma" alt="abhinandan-verma" /></a> </p>
-
 - 🔭 I’m currently working on [Gemini AI ChatBot & YouTube Clone](https://github.com/abhinandan-verma)
 
 - 🌱 I’m currently learning **Next.js, Node.js & React.js**
