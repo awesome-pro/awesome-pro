@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhinandan</h1>
 
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
  
