@@ -6,6 +6,8 @@
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with experience in building dynamic and interactive web applications.
 
+![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 ## 🛠️ Skills
 <br/>
 <h3 align="left">Connect with me:</h3>  
