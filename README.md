@@ -1,5 +1,5 @@
 # Hi there, I'm Abhinandan Verma! 👋  
-### Building Scalable Application with ❤️ from India
+### Building Scalable Application with ❤️
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinandan-verma&color=blue)
 
@@ -109,21 +109,14 @@ I'm a passionate Full Stack Developer with experience in building dynamic and in
 
   
 # 📊 GitHub Stats:
-![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandan-verma&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan-verma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=abhinandan-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinandan-verma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesome-pro&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome-pro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=awesome-pro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=awesome-pro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome-pro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhinandan-verma&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=awesome-pro&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhinandan-verma&limit=5&theme=oldie&combine_all_yearly_contributions=true)
-
-### ✍🏻 Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
