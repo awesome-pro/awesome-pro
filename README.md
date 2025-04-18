@@ -1,8 +1,6 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I own a Computer and I like running Commands in Terminal 🐍 </samp></h4>
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+![1739277619805](https://github.com/user-attachments/assets/58452f41-c04b-4183-a917-159b7d77c50d)
+
 
 
 <p align="center">
