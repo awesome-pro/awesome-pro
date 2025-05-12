@@ -29,34 +29,6 @@ I am a passionate **Software Engineer** with niche expertise in building highly 
 - Strong understanding of **cloud platforms** and deployment strategies, including CI/CD pipelines and scalable architectures.
 - A commitment to **best practices** like clean code, testing, and robust documentation.
 
----
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Technologies & Tools
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
-
-### Front-End
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
-
-### Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-336791?style=flat-square&logo=hono&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
 ### 🌟 **Why Work with Me?**
 
 - I specialise in solving real-world problems through technology and innovation.
