@@ -5,6 +5,7 @@
 *Building scalable solutions that drive real business impact*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhinandan.pro-blue?style=flat-square&logo=globe)](https://abhinandan.pro)
+[![Resume](https://img.shields.io/badge/Resume-shorturlabhinandan.pro/resume-blue?style=flat-square&logo=globe)](https://shorturl.abhinandan.pro/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhinandan-verma)
 [![Email](https://img.shields.io/badge/Email-abhinandan%40abhinandan.pro-red?style=flat-square&logo=gmail)](mailto:abhinandan@abhinandan.pro)
 ---
