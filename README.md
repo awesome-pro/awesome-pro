@@ -1,6 +1,6 @@
 # Hi! 👋 This side, Abhinandan
 
-**Software Engineer | Machine Learning Enthusiast | Open Source Contributor**
+**Machine Learning Engineer | Open Source Contributor**
 
 *Building scalable solutions that drive real business impact*
 
