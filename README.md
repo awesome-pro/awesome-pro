@@ -1,139 +1,71 @@
-# Hi! 👋 This side, Abhinandan
+<!--
+  GitHub profile README for github.com/awesome-pro
+  Paste the content BELOW this comment into the README.md of your
+  special profile repo: github.com/awesome-pro/awesome-pro
+  (create that repo — name it exactly "awesome-pro" — if it doesn't exist).
+-->
 
-**Machine Learning Engineer | Open Source Contributor**
+### Abhinandan
 
-*Building scalable solutions that drive real business impact*
+**Agentic AI Engineer.** I build the infrastructure AI products run on.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhinandan.pro-blue?style=flat-square&logo=globe)](https://abhinandan.pro)
-[![Resume](https://img.shields.io/badge/Resume-shorturlabhinandan.pro/resume-blue?style=flat-square&logo=globe)](https://shorturl.abhinandan.pro/resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhinandan-verma)
-[![Email](https://img.shields.io/badge/Email-abhinandan%40abhinandan.pro-red?style=flat-square&logo=gmail)](mailto:abhinandan@abhinandan.pro)
----
-
-## 🚀 What I Do
-
-I'm a **Top 1% TypeScript Engineer globally** (Algora) who transforms complex problems into elegant, scalable solutions. With experience across **AI-powered platforms**, **enterprise systems**, and **high-performance applications**, I've helped businesses achieve measurable growth and operational efficiency.
-
-
----
-## 🏆 Impact & Achievements
-
-### Business Impact
-- **₹100K+ MRR** generated through core features development in 2 months
-- **500+ enterprise users** served through scalable backend systems
-- **$300+ revenue** generated from self-built SaaS products
-- **>98% delivery success rate** across multi-channel platforms
-
-### Technical Excellence
-- **Top 1% TypeScript Engineer** globally recognized by Algora
-- **25+ open-source contributions** to NextUI (Y Combinator startup)
-- **P99 latency <100ms** achieved in high-throughput URL shortener
-- **>95% transaction success rate** in payment processing systems
-
-### Recognition
-- 🏆 **2nd Place** - Outlier AI Hackathon
-- 🥇 **IYMC Gold Honour**
-- 🎓 **Reliance Foundation Scholar**
-- 🎓 **HDFC Badhate Kadam Scholar**
+Multi-agent systems, LLM inference pipelines, and the unglamorous production
+work that separates demos from products. I care about the parts that don't make
+it into the demo — latency budgets, cost models, error surfaces, observability —
+because those decide whether a product survives contact with real users.
 
 ---
 
-## 💻 Technical Arsenal
+#### Currently
 
-### Core Technologies
-```javascript
-const abhinandan = {
-    languages: ["Python", "TypeScript", "Java"],
-    frontend: ["Next.js", "React", "Redux", "Server Actions"],
-    backend: ["Nest.js", "FastAPI", "Django", "Spring Boot"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    cloud: ["AWS", "Google Cloud", "Docker", "CI/CD"],
-    ai_ml: ["LangChain", "Hugging Face", "Pinecone", "OpenAI"],
-    specialties: ["GraphQL", "WebSockets", "Microservices", "RBAC"]
-};
+**Founding Engineer @ Browzer** — CDP-native browser automation agents.
+
+- A Chrome MV3 recorder + CDP agent with **95%+ AX/DOM element capture**, cross-iframe support, and real mouse/key/upload execution.
+- A streaming **ReAct loop** over FastAPI + extension: SSE tool execution, multi-tab orchestration, safe parallelism, abort/continue, audit logs.
+- **~67% lower LLM spend** via compact recording traces, context compression, prompt caching, and model routing across GPT-5 / Claude Sonnet & Haiku.
+- A **zero-LLM replay engine** (recordings run as variable-driven tool-call templates) with a stateful AI fallback that resumes mid-run on failure.
+- **Self-healing docs** that auto-repair on UI drift — Haiku→Sonnet diff triage, LLM-free replay of intact steps, and an agent that fixes only what changed.
+
+~700K+ production LLM calls monitored to date.
+
+---
+
+#### Selected open source
+
+**[agentflow-pro](https://github.com/awesome-pro/agentflow-pro)** — *RL for agentic reasoning.*
+Rebuilt the ICLR 2026 AgentFlow architecture as a local Qwen3-8B Planner→Executor→Verifier→Memory loop, then trained the planner with **DAPO + a learned Qwen3-0.6B Process Reward Model** (replacing the paper's GRPO). Full A40 pipeline (DeepSeek-judged labels → PRM → bf16 LoRA DAPO → GGUF). **+5.0 pts on GPQA-Diamond (40.0% → 45.0%)** under leakage-free, quantization-matched eval.
+
+**[guardloop](https://github.com/awesome-pro/guardloop)** — *Guardrail runtime for async agents.*
+Pre-flight cost/token/time/tool-call budgets, per-tool circuit breakers, a verifier-feedback retry loop, OpenTelemetry GenAI spans, and no-rewrite adapters for LangGraph & the OpenAI Agents SDK — safety enforced inside your existing LLM/tool calls.
+
+**[smartmemo](https://github.com/awesome-pro/smartmemo)** — *Semantic memory/cache for LLM agents.*
+Embeddings retrieve candidates; a learned pair-equivalence classifier decides reuse. Bundled classifier trained on 16,576 pairs across 9 domains — **+30 precision points at equal recall vs. cosine** — with implicit bad-hit detection and gated retraining.
+
+**[orchflow](https://github.com/awesome-pro/orchflow)** — *Dependency-free multi-agent pipelines.*
+Typed Python for readable sequential/parallel/conditional flows: retries, shared context, flat traces, lifecycle events, human gates, and JSON checkpoint/resume.
+
+**[agenteval](https://github.com/awesome-pro/agenteval)** — *Behavioral eval for agents.*
+Replaces exact-match asserts with repeated-run pass-rate tests; traces tool calls/timing/steps and emits JSON reports for CI gates. OpenAI / Anthropic / LangChain adapters.
+
+---
+
+#### Stack
+
+```
+Agents      LangGraph · OpenAI Agents SDK · LangChain · LlamaIndex · MCP/FastMCP
+            ReAct · function calling · multi-agent orchestration · CDP agents
+LLM eng     Fine-tuning (LoRA/QLoRA/PEFT) · DPO/GRPO/DAPO/PRM · vLLM/SGLang/Ollama
+            quantization (AWQ/GPTQ/GGUF) · context engineering · KV-cache · streaming
+Retrieval   PyTorch · sentence-transformers · RAG · FAISS · Qdrant · pgvector
+Eval/Obs    OpenTelemetry · Langfuse · Arize Phoenix · LangSmith · GPQA/AIME
+Systems     FastAPI · Nest.js · GraphQL · SSE/WebSockets · Docker · GCP · AWS · Redis
+Languages   Python · TypeScript · C++ · SQL
 ```
 
-### Advanced Capabilities
-- **Performance Optimization**: Reduced processing times by 40% using Celery workers
-- **AI Integration**: Built knowledge bases improving query accuracy by 15%
-- **Scalable Architecture**: Handled 5000+ daily queries with enterprise-grade systems
-- **Real-time Systems**: Implemented WebSocket-based notifications and live updates
-
 ---
 
-## 🌟 Featured Projects
+#### Elsewhere
 
-### 🏢 AI-Powered Real Estate Ecosystem
-**Next.js • Nest.js • PostgreSQL • GraphQL • AWS**
-- Led development of core features acquiring **20 clients in 2 months**
-- Integrated AI knowledge base using FastAPI, LangChain & OpenAI
-- Implemented enterprise RBAC with JWT authentication
-- Automated WhatsApp & Google Ads optimization with DeepSeek AI
+[abhinandan.one](https://abhinandan.one) · [linkedin/in/abhibuilds](https://linkedin.com/in/abhibuilds) · hi@abhinandan.one
 
-### 🔗 ShortUrl - High-Performance URL Shortener
-**Google Cloud Run • Redis • JWT Authentication**
-- Achieved **P99 latency <50ms** for redirections
-- Secured with short-lived tokens and refresh token strategy
-- OAuth integration for seamless user experience
-
-### 🛒 EasyMarketplace - AWS Marketplace Management
-**Streamlined ISV Operations**
-- **50+ user sign-ups** and **20+ resale authorizations** generated
-- Reduced AWS Marketplace listing management complexity
-- Validated product-market fit through early traction
-
-### 📚 UPSCprep - Educational SaaS Platform
-**Full-Stack • Razorpay Integration • Performance Analytics**
-- Comprehensive platform with mock tests and question banks
-- Successfully monetized generating **~$300 revenue**
-- Served local educational market needs
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awesome-pro&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome-pro&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's Build Something Amazing
-
-I'm passionate about creating solutions that make a real difference. Whether it's optimizing system performance, implementing AI capabilities, or building user-centric applications, I bring both technical expertise and business acumen to every project.
-
-### Open to:
-- 🚀 **Full-time Software Engineering roles**
-- 🤝 **Technical consulting opportunities**
-- 💡 **Innovative startup collaborations**
-- 🌐 **Open source contributions**
-
-### What sets me apart:
-- **Business-focused mindset**: Every line of code drives measurable impact
-- **Performance obsession**: Consistently deliver sub-50ms response times
-- **Full-stack versatility**: From AI backends to responsive frontends
-- **Proven track record**: Multiple successful deployments and revenue generation
-
----
-
-## 📫 Let's Connect
-
-Ready to discuss how I can contribute to your team's success? I'd love to hear about the challenges you're solving.
-
-**📧 Email**: [abhinandan@abhinandan.pro](mailto:abhinandan@abhinandan.pro)  
-**💼 LinkedIn**: [linkedin.com/in/abhinandan-verma](https://linkedin.com/in/abhinandan-verma)  
-**🌐 Portfolio**: [abhinandan.pro](https://abhinandan.pro)  
-**🌐 Resume**: [abhinandan.pro](https://shorturl.abhinandan.pro/resume)  
-
----
-
-<div align="center">
-
-*"Building the future, one commit at a time"* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=awesome-pro&color=blueviolet&style=flat-square)
-
-</div>
+<sub>Open-source contributor at HeroUI (YC S24) — fixed 10+ bugs and shipped 7+ enhancements across Calendar, Table, and Pagination, which led to a personal offer from the CEO.</sub>
