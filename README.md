@@ -10,7 +10,7 @@
 
 I do **RL post-training** on reasoning models, &amp; build the **inference systems** that serve them. And I usually write my thoughts in my artifacts.
 
-[mail](mailto:abhinandan@abhinandan.one) &nbsp;·&nbsp; [resume](https://abhinandan.one/resume) &nbsp;·&nbsp; [github](https://github.com/awesome-pro) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/abhibuilds) &nbsp;·&nbsp; [x](https://x.com/abhibuilds) &nbsp;·&nbsp; [youtube](https://youtube.com/@0xAbhinandan)
+[mail](mailto:abhinandan@abhinandan.one) &nbsp;·&nbsp; [resume](https://abhinandan.one/resume) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/abhibuilds) &nbsp;·&nbsp; [x](https://x.com/abhibuilds) &nbsp;·&nbsp; [youtube](https://youtube.com/@0xAbhinandan)
 
 </div>
 
