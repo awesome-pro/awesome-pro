@@ -16,8 +16,6 @@ i like working when the world is sleeping. and my work cycle is generally 12pm t
 
 <div align="center">
 
-**Abhinandan © 2026**
-
 ![today](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fabhinandan.one%2Fapi%2Fvisitors&query=%24.today&label=%E2%97%89&color=555555&labelColor=1a1a1a)
 ![total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fabhinandan.one%2Fapi%2Fvisitors&query=%24.total&label=total&color=555555&labelColor=1a1a1a)
 
