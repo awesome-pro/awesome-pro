@@ -1,8 +1,8 @@
-i do **rl post-training** on reasoning models, &amp; build the **inference systems** that serve them. first make the model better, then make it cheap enough to actually run.
+I do **rl post-training** on reasoning models, & build the inference systems that serve them.
 
-the part i like is everything after the demo. Where the reasoning breaks, what a call costs, and what happens the first time real traffic hits it.
+i like working when the world is sleeping. my work cycle is generally 12pm to 4am. And I usually write my thoughts in my [artifacts](https://abhinandan.one/artifacts).
 
-i like working when the world is sleeping. and my work cycle is generally 12pm to 4am.  and i usually write my thoughts in my [artifacts](https://abhinandan.one/artifacts). 
+the part I live is generally after the launch day. When the reasoning breaks, when the cost skyrockets, when the first traffic hits - all the similar thrills :)
 
 ---
 
