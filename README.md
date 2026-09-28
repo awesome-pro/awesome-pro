@@ -1,9 +1,6 @@
 <div align="center">
 
 # abhinandan
-
-[mail](mailto:abhinandan@abhinandan.one) &nbsp;·&nbsp; [site](https://abhinandan.one)
-
 </div>
 
 i do **rl post-training** on reasoning models, &amp; build the **inference systems** that serve them. first make the model better, then make it cheap enough to actually run.
