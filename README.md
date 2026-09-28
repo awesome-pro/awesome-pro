@@ -1,8 +1,3 @@
-<div align="center">
-
-# abhinandan
-</div>
-
 i do **rl post-training** on reasoning models, &amp; build the **inference systems** that serve them. first make the model better, then make it cheap enough to actually run.
 
 the part i like is everything after the demo. Where the reasoning breaks, what a call costs, and what happens the first time real traffic hits it.
